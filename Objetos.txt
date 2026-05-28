@@ -36,21 +36,21 @@ Ações: voar, comer
 Objeto 6 - Câmera
 
 
-Características: lente, flash
+Características: modelo
 Ações: fotografar
 
 
 Objeto 7 - Mochila
 
 
-Características: alça, espaço
+Características: modelo
 Ações: guardar objetos
 
 
 Objeto 8 - Computador
 
 
-Características: tela, teclado, CPU
+Características: modelo, tela, teclado, CPU
 Ações: assistir filme, codar, jogar
 
 
