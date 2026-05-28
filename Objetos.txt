@@ -29,7 +29,7 @@ Ações: acelerar, parar
 Objeto 5 - Pássaro
 
 
-Características: asas, bico
+Características: nome, idade, raça
 Ações: voar, comer
 
 
