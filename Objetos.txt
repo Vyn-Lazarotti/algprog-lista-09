@@ -1,68 +1,39 @@
 ﻿Objeto 1 - Pessoa
-
-
 Características: nome, idade, cpf, email
 Ações: falar, andar, comer, dormir
 
-
 Objeto 2 - Cachorro
-
-
 Características: nome, idade, raça
 Ações: latir, comer, dormir
 
-
 Objeto 3 - Gato
-
-
 Características: nome, idade, raça
 Ações: miar, comer, dormir
 
-
 Objeto 4 - Carro
-
-
 Características:  modelo, ano, cor
 Ações: acelerar, parar
 
-
 Objeto 5 - Pássaro
-
-
 Características: nome, idade, raça
 Ações: voar, comer
 
-
 Objeto 6 - Câmera
-
-
 Características: modelo
 Ações: fotografar
 
-
 Objeto 7 - Mochila
-
-
 Características: modelo
 Ações: guardar objetos
 
-
 Objeto 8 - Computador
-
-
 Características: modelo, tela, teclado, CPU
 Ações: assistir filme, codar, jogar
 
-
 Objeto 9 - Peixe
-
-
 Características: barbatana
 Ações: nadar, comer
 
-
 Objeto 10 - Dinheiro
-
-
 Características: valor, números
 Ações: pagar contas
