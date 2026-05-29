@@ -35,5 +35,5 @@ Características: especie
 Ações: nadar, comer
 
 Objeto 10 - Dinheiro
-Características: valor, números
+Características: valor
 Ações: pagar contas
