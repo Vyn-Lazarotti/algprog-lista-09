@@ -31,7 +31,7 @@ Características: modelo, tela, teclado, CPU
 Ações: assistir filme, codar, jogar
 
 Objeto 9 - Peixe
-Características: barbatana
+Características: especie
 Ações: nadar, comer
 
 Objeto 10 - Dinheiro
